@@ -1,6 +1,6 @@
 # Viajes Chile 🌄
 
-**First Project** This one of the first webpages that I make and work with GitHub. Hope you like this repo.
+**First Project** This one of the first webpages that I make and work with GitHub. Hope you like it.
 
 ## Technologies Used
 
